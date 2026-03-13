@@ -1,5 +1,10 @@
-streamlit 
-langchain-openai 
-langchain-groq 
-langchain-google-genai 
-langchain-core
+streamlit
+groq
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pypdf
+tavily-python
+numpy
